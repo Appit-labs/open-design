@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "description": "Work in the OpenDesign monorepo (nexu-io/open-design): pinned pnpm, tools-dev lifecycle, desktop/browser QA, pre-PR checks.",
   "author": {
-    "name": "Ibrahim M. Badr",
-    "url": "https://github.com/ibrahimbdr"
+    "name": "Appit Labs",
+    "url": "https://github.com/Appit-labs"
   },
-  "homepage": "https://github.com/ibrahimbdr/open-design",
+  "homepage": "https://github.com/Appit-labs/open-design",
   "license": "MIT",
   "skills": "./skills"
 }

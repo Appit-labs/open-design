@@ -36,6 +36,12 @@ holds this `SKILL.md`. Set it once per session, for example:
 SKILL_DIR=~/.claude/skills/open-design     # or ~/.codex/skills/…, ~/.pi/agent/skills/…, .cursor/skills/…
 ```
 
+## No MCP needed here
+
+This repo is a pnpm workspace driven by `tools-dev`; nothing in this workflow goes through an
+MCP server. If an agent asks for `mcp__*` tools to touch OpenDesign, that is a wrong turn — use
+the CLI below.
+
 ## Prerequisites
 
 - **Node `~24`.** `package.json#engines` and `.node-version` pin it; Node 22 is

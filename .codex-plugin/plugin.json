@@ -2,5 +2,9 @@
   "name": "open-design",
   "version": "0.1.0",
   "description": "Work in the OpenDesign monorepo (nexu-io/open-design): pinned pnpm, tools-dev lifecycle, desktop/browser QA, pre-PR checks.",
-  "skills": "./skills"
+  "skills": "./skills",
+  "author": {
+    "name": "Ibrahim M. Badr",
+    "url": "https://github.com/ibrahimbdr"
+  }
 }

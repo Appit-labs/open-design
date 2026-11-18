@@ -4,19 +4,19 @@ version: 2
 scanner_version: 2.12.0
 rules: []
 fingerprints:
-- hash: sha256:0ec15a20e6eba45e5ce6fd70cdce4e234dc0decdcbb5f880c8ee886fcf96fcc3
+- hash: sha256:a16dbd26100e7ed025d95dffb021f98173f41e7802fba0d130401d14fce17c58
   rule_id: AST4
   file: scripts/od.py
   reason: Accepted finding (auto-generated baseline)
-- hash: sha256:1375160551b4716a43bd2f2165cbf0d027b19a16e71d9a4d5c4e8e79afc75fae
+- hash: sha256:cb25b41d3d0ab8437bcef36d6a62769b6b549d773340cb0bd9b308fa0fbf7d52
   rule_id: AST4
   file: scripts/od.py
   reason: Accepted finding (auto-generated baseline)
-- hash: sha256:a25f15289903978a276570536f4e03929f4905035e5cfb189baca3b10d4f63b4
+- hash: sha256:f789ab79c99aac5eda9712ed2f06138ce4029047b7afb5ab8d6ed3bf7e94d0a3
   rule_id: TT2
   file: scripts/od.py
   reason: Accepted finding (auto-generated baseline)
-- hash: sha256:eca2285c7c85b867aee6b9ada0d2b605d35424c1816542ab8982bd5f6d512357
+- hash: sha256:751356af1df4daaa00d02dccb60f0bba74a145aa2108601c74b3d2a294eacab0
   rule_id: TT2
   file: scripts/od.py
   reason: Accepted finding (auto-generated baseline)

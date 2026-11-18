@@ -1,0 +1,18 @@
+{
+  "skill": "open-design",
+  "out": "open-design/demo.gif",
+  "caption": "open-design \u2014 the pnpm trap, defused",
+  "steps": [
+    {
+      "cmd": "od.py doctor",
+      "phase": "payoff",
+      "out": [
+        "node: v24.19.0 (repo wants 24)",
+        "pnpm via corepack: 10.33.2 (repo wants 10.33.2)",
+        "port 17456: free",
+        "port 17573: free",
+        "repo: open-design"
+      ]
+    }
+  ]
+}

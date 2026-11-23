@@ -9,6 +9,7 @@ allowed-tools:
 permissions:
   - shell
   - env
+license: MIT
 ---
 
 # OpenDesign monorepo
@@ -24,6 +25,8 @@ this skill for the parts that break in practice.
 ```
 python3 "$SKILL_DIR/scripts/od.py" doctor|start|status|shot|stop|checks
 ```
+
+**Not for:** any other pnpm monorepo — the pins, ports and `tools-dev` lifecycle here are OpenDesign-specific and will not transfer.
 
 ## Portability
 

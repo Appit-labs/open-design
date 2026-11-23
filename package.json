@@ -1,6 +1,6 @@
 {
   "name": "open-design",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Work in the OpenDesign monorepo (nexu-io/open-design): pinned pnpm, tools-dev lifecycle, desktop/browser QA, pre-PR checks.",
   "license": "MIT",
   "keywords": [
